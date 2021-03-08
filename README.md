@@ -3,5 +3,7 @@ Repo Ini berisikan Aplikasi android yang saya buat, dari sekarang dan sampai nan
 
 <ul>
   <li>Aplikasi Volume</li>
+  <li>Recycler View</li>
+  <p>Berisikan source code mengenai recyclerview(List, Grid, Card)</p>
   
 </ul>
