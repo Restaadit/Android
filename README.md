@@ -5,5 +5,6 @@ Repo Ini berisikan Aplikasi android yang saya buat, dari sekarang dan sampai nan
   <li>Aplikasi Volume</li>
   <li>Recycler View</li>
   <p>Berisikan source code mengenai recyclerview(List, Grid, Card)</p>
-  
+  <li>KPOPRS</li>
+  <p>Berisikan source code mengenai recyclerview(List), Detail Page, About Page, Splash Screen</p>
 </ul>
