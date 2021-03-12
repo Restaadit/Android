@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KPOPRS</string>
+    <string name="splashscreeen">SPLASHSCREEEN</string>
+    <string name="member_name">Nama Member</string>
+    <string name="group_member">Group Member</string>
+    <string name="profile">Profile</string>
+
+    <string name="biodata_detail">Nama Lahir \nTempat Lahir \nTanggal Lahir \nTinggi \nBerat \nGolongan Darah</string>
+    <string name="biodata_member">Biodata Member</string>
+    <string name="detail_content">Detail Content</string>
+    <string name="fakta_member">Fakta Member</string>
+    <string name="content_fakta">Content Fakta</string>
+    <string name="nama_member">Nama Member</string>
+    <string name="nama_group">Nama Group</string>
+    <string name="about_me">About Me</string>
+    <string name="name_author">Resta Adityatama</string>
+    <string name="email_author">restaadit10@gmail.com</string>
+
+</resources>
